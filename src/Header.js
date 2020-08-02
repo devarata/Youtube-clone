@@ -24,13 +24,13 @@ function Header() {
 
       <div
         className="header__input">
-          <input type="text"/>
-          <SearchIcon/>
+          <input placeholder="Search" type="text"/>
+          <SearchIcon className="header__inputbutton"/>
         </div>
 
         <div className="header__icons">
           <VideoCallIcon/>
-          <AppsIcon/>
+          <AppsIcon className="header__icon"/>
           <NotificationsIcon/>
 
           <Avatar
