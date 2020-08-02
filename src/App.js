@@ -1,16 +1,17 @@
 import React from 'react';
-
+import Header from './Header'
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-    <h1>Youtube</h1>
 
+    <Header/>
     {/*Header -> <Header />*/}
     {/*Sidebar*/}
     {/*Recommended Videos*/}
-    
+
     </div>
   );
 }
