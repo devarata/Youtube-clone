@@ -21,7 +21,135 @@ function RecommendedVideos() {
           views="2.3M Views"
           timestamp="3 days ago"
           channelImage={logo1}
-          channelName="SolidGeek"
+          channelName="Solid Geek"
+          image={thumbnail1}
+        />
+        <VideoCard
+          title="Learn Angular in 5 hours"
+          views="4.5M views"
+          timestamp="2 months ago"
+          channelImage={logo2}
+          channelName="Force Runner"
+          image={thumbnail2}
+        />
+        <VideoCard
+          title="How to lose weight in 4 weeks"
+          views="435K views"
+          timestamp="1 year ago"
+          channelImage={logo3}
+          channelName="Witness Fitness"
+          image={thumbnail3}
+         />
+        <VideoCard
+          title="Cheating - Stand Up Comedy"
+          views="1.2M views"
+          timestamp="2 weeks ago"
+          channelImage={logo4}
+          channelName="Comedy Nights"
+          image={thumbnail4}
+        />
+        <VideoCard
+          title="Top 5 Website to learning web design & development"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          channelImage={logo1}
+          channelName="Solid Geek"
+          image={thumbnail1}
+        />
+        <VideoCard
+          title="Learn Angular in 5 hours"
+          views="4.5M views"
+          timestamp="2 months ago"
+          channelImage={logo2}
+          channelName="Force Runner"
+          image={thumbnail2}
+        />
+        <VideoCard
+          title="How to lose weight in 4 weeks"
+          views="435K views"
+          timestamp="1 year ago"
+          channelImage={logo3}
+          channelName="Witness Fitness"
+          image={thumbnail3}
+         />
+        <VideoCard
+          title="Cheating - Stand Up Comedy"
+          views="1.2M views"
+          timestamp="2 weeks ago"
+          channelImage={logo4}
+          channelName="Comedy Nights"
+          image={thumbnail4}
+        />
+        <VideoCard
+          title="Top 5 Website to learning web design & development"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          channelImage={logo1}
+          channelName="Solid Geek"
+          image={thumbnail1}
+        />
+        <VideoCard
+          title="Learn Angular in 5 hours"
+          views="4.5M views"
+          timestamp="2 months ago"
+          channelImage={logo2}
+          channelName="Force Runner"
+          image={thumbnail2}
+        />
+        <VideoCard
+          title="How to lose weight in 4 weeks"
+          views="435K views"
+          timestamp="1 year ago"
+          channelImage={logo3}
+          channelName="Witness Fitness"
+          image={thumbnail3}
+         />
+        <VideoCard
+          title="Cheating - Stand Up Comedy"
+          views="1.2M views"
+          timestamp="2 weeks ago"
+          channelImage={logo4}
+          channelName="Comedy Nights"
+          image={thumbnail4}
+        />
+        <VideoCard
+          title="Top 5 Website to learning web design & development"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          channelImage={logo1}
+          channelName="Solid Geek"
+          image={thumbnail1}
+        />
+        <VideoCard
+          title="Learn Angular in 5 hours"
+          views="4.5M views"
+          timestamp="2 months ago"
+          channelImage={logo2}
+          channelName="Force Runner"
+          image={thumbnail2}
+        />
+        <VideoCard
+          title="How to lose weight in 4 weeks"
+          views="435K views"
+          timestamp="1 year ago"
+          channelImage={logo3}
+          channelName="Witness Fitness"
+          image={thumbnail3}
+         />
+        <VideoCard
+          title="Cheating - Stand Up Comedy"
+          views="1.2M views"
+          timestamp="2 weeks ago"
+          channelImage={logo4}
+          channelName="Comedy Nights"
+          image={thumbnail4}
+        />
+        <VideoCard
+          title="Top 5 Website to learning web design & development"
+          views="2.3M Views"
+          timestamp="3 days ago"
+          channelImage={logo1}
+          channelName="Solid Geek"
           image={thumbnail1}
         />
         <VideoCard
